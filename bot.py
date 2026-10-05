@@ -90,3 +90,4 @@ def handle_all_buttons(message):
 
 # تشغيل البوت باستمرار
 bot.infinity_polling()
+    
